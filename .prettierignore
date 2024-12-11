@@ -1,0 +1,20 @@
+.yarn
+
+# docs
+build
+.vercel
+
+# web
+.next
+
+# contracts
+node_modules
+artifacts
+cache
+coverage*
+gasReporterOutput.json
+
+typechain
+deployment
+
+static
